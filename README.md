@@ -258,7 +258,7 @@ Check out these resources to learn more or get involved:
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
-<!--
+<div>
 ```plantuml
 @startuml
 ' Diagram on Decoupling for Coupling blog post
@@ -283,7 +283,7 @@ im -[#black]down-> cp2
 
 @enduml
 ```
--->
+</div>
 
 ---
 
